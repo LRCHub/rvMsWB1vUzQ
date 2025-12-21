@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "GALA",
+  "base_artist": "XG",
+  "createdAt": "2025-12-21T07:44:25.208202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gala Dress",
+      "artist": "LEMS",
+      "has_synced": false,
+      "path": "select/01_Gala_Dress_LEMS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stockton Gala Days",
+      "artist": "10,000 Maniacs",
+      "has_synced": true,
+      "path": "select/02_Stockton_Gala_Days_10,000_Maniacs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stockton Gala Days - live",
+      "artist": "10,000 Maniacs",
+      "has_synced": false,
+      "path": "select/03_Stockton_Gala_Days_-_live_10,000_Maniacs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MET GALA",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/04_MET_GALA_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Met Gala (feat. Offset)",
+      "artist": "Gucci Mane feat. Offset",
+      "has_synced": true,
+      "path": "select/05_Met_Gala_(feat._Offset)_Gucci_Mane_feat._Offset.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Al Pranzo Di Gala Di Babbo Natale",
+      "artist": "Bruno Lauzi",
+      "has_synced": true,
+      "path": "select/06_Al_Pranzo_Di_Gala_Di_Babbo_Natale_Bruno_Lauzi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Al Pranzo Di Gala Di Babbo Natale",
+      "artist": "Bruno Lauzi Niny Comolli",
+      "has_synced": true,
+      "path": "select/07_Al_Pranzo_Di_Gala_Di_Babbo_Natale_Bruno_Lauzi_Niny_Comolli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Met Gala",
+      "artist": "24hrs feat. PnB Rock",
+      "has_synced": true,
+      "path": "select/08_Met_Gala_24hrs_feat._PnB_Rock.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Met Gala (feat. PnB Rock)",
+      "artist": "24hrs",
+      "has_synced": true,
+      "path": "select/09_Met_Gala_(feat._PnB_Rock)_24hrs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mujer Gala (Bonus Track)",
+      "artist": "Aterciopelados",
+      "has_synced": true,
+      "path": "select/10_Mujer_Gala_(Bonus_Track)_Aterciopelados.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stockton Gala Days",
+      "artist": "10,000 Maniacs",
+      "has_synced": true,
+      "path": "select/11_Stockton_Gala_Days_10,000_Maniacs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gala gala",
+      "artist": "PNL",
+      "has_synced": true,
+      "path": "select/12_Gala_gala_PNL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Met Gala",
+      "artist": "Gucci Mane feat. Offset",
+      "has_synced": true,
+      "path": "select/13_Met_Gala_Gucci_Mane_feat._Offset.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Met Gala (feat. Offset)",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/14_Met_Gala_(feat._Offset)_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Met Gala Remix (feat. Offset, Sett, Mac Critter, Kato2x)",
+      "artist": "Gucci Mane feat. KATO2X, Mac Critter, Offset & Sett",
+      "has_synced": true,
+      "path": "select/15_Met_Gala_Remix_(feat._Offset,_Sett,_Mac_Critter,_Kato2x)_Gucci_Mane_feat._KATO2X,_Mac_Critter,_Offset_&_Sett.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Met Gala Remix (feat. Offset, Sett, Mac Critter, Kato2x)",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/16_Met_Gala_Remix_(feat._Offset,_Sett,_Mac_Critter,_Kato2x)_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ich will dein Freund sein (Gala - Freed from desire)",
+      "artist": "SpongeBob SquarePants",
+      "has_synced": false,
+      "path": "select/17_Ich_will_dein_Freund_sein_(Gala_-_Freed_from_desire)_SpongeBob_SquarePants.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gala Hala ( Burn Down The Floor)",
+      "artist": "Crossfaith",
+      "has_synced": true,
+      "path": "select/18_Gala_Hala_(_Burn_Down_The_Floor)_Crossfaith.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gala",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/19_Gala_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Gala [ガラ]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/20_Gala_[ガラ]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GALA",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_GALA_XG.txt"
+    }
+  ]
+}
